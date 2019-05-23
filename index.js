@@ -18,6 +18,8 @@ while(i < array.length) {
 function iLoveTheBeatles(num) {
   var empty = []; 
   do {
-    array.push()
-  }
+    array.push("I love the Beatles!");
+    num++;
+  } while (number <15);
+  return empty;
 }
