@@ -16,10 +16,10 @@ while(i < array.length) {
   return array;
 }
 function iLoveTheBeatles(num) {
-  var empty = []; 
+  var array = []; 
   do {
     array.push("I love the Beatles!");
     num++;
   } while (number < 15);
-  return empty;
+  return array;
 }
