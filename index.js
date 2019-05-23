@@ -16,5 +16,8 @@ while(i < array.length) {
   return array;
 }
 function iLoveTheBeatles(num) {
-  var 
+  var empty = []; 
+  do {
+    array.push()
+  }
 }
